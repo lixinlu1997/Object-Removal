@@ -52,7 +52,7 @@ For 'sample3.jpg' and 'sample4.jpg', the correspinding masks have been placed in
 
 # Example Demonstration
 Here is the removal process of an example:
-![Object Removal Example](output/sample4.gif)
+![Object Removal Example](example.gif)
 More example is pre-included in ./output directory
 
 # keras-yolo3
