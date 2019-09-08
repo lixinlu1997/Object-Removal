@@ -20,6 +20,11 @@ The code can be compile based on eta library (eta library installation info can 
   ```
   Store this .weights file in the root directory.
 
+- Then you need to convert the Darknet YOLO model to a Keras model, by entering:
+  ```bash
+  python convert.py yolov3.cfg yolov3.weights model_data/yolo.h5
+  ```
+
 - Then put the image you want to process in '/image' directory. If you have had a mask for your image, put it in '/mask' directory.
 
 - Run 'python main.py'
