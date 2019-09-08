@@ -51,8 +51,8 @@ For 'sample2.png', we choose the poeple with index 0 after the objects have been
 For 'sample3.jpg' and 'sample4.jpg', the correspinding masks have been placed in the '/mask' directory, named 'sample3_mask.jpg' and 'sample4_mask.jpg'.
 
 # Example Demonstration
-Here is the removal process of an example,
-![](example.gif)
+Here is the removal process of an example:
+![Object Removal Example](output/sample4.gif)
 More example is pre-included in ./output directory
 
 # keras-yolo3
