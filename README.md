@@ -63,7 +63,10 @@ For 'sample3.jpg' and 'sample4.jpg', the correspinding masks have been placed in
 - More example is pre-included in ./output directory
 
 # keras-yolo3
-We have used yolo3 to help detect the object in the image. The pre-trained weights have been downloaded to use directly.
+We have used yolo3 to help detect the object in the image. The pre-trained weights need to be downloaded to use.
 
 https://pjreddie.com/darknet/yolo/
- 
+
+We also use a Keras implementation of YOLOv3 (Tensorflow Backend) by qqwweee:
+
+https://github.com/qqwweee/keras-yolo3
