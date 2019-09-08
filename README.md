@@ -51,9 +51,9 @@ For 'sample2.png', we choose the poeple with index 0 after the objects have been
 For 'sample3.jpg' and 'sample4.jpg', the correspinding masks have been placed in the '/mask' directory, named 'sample3_mask.jpg' and 'sample4_mask.jpg'.
 
 # Example Demonstration
-Here is the removal process of an example:
+- Here is the removal process of an example:
 ![Object Removal Example](example.gif)
-More example is pre-included in ./output directory
+- More example is pre-included in ./output directory
 
 # keras-yolo3
 We have used yolo3 to help detect the object in the image. The pre-trained weights have been downloaded to use directly.
