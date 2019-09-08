@@ -4,7 +4,7 @@ README.md for 442 Project by Group 19
 This project offers an efficient and effective method for filling the removed regions in an image.
 
 # Environment
-The code can be compile based on eta library and the other library we will use is:
+The code can be compile based on eta library (eta library installation info can be found in:https://github.com/voxel51/eta ) and the other library we will use is:
 
 - Keras 2.1.5
 - tensorflow 1.6.0
@@ -14,7 +14,13 @@ The code can be compile based on eta library and the other library we will use i
 - imageio
 
 # Usage
-- First put the image you want to process in '/image' directory. If you have had a mask for your image, put it in '/mask' directory.
+- Before start, first you need to download a pre-trained YOLOv3 weights, by entering:
+  ```bash
+  wget https://pjreddie.com/media/files/yolov3.weights
+  ```
+  Store this .weights file in the root directory.
+
+- Then put the image you want to process in '/image' directory. If you have had a mask for your image, put it in '/mask' directory.
 
 - Run 'python main.py'
 
