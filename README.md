@@ -77,7 +77,8 @@ This project is equally contributed by [Zhiming Ruan](https://github.com/BarryRu
 
 ## Citation
 
-@ARTICLE{1323101,
+```
+@article{1323101,
 author={A. {Criminisi} and P. {Perez} and K. {Toyama}},
 journal={IEEE Transactions on Image Processing},
 title={Region filling and object removal by exemplar-based image inpainting},
@@ -88,4 +89,6 @@ pages={1200-1212},
 keywords={image texture;image colour analysis;image sampling;image restoration;region filling;object removal;exemplar-based image inpainting;digital images;texture synthesis algorithms;structure propagation;best-first algorithm;color images;image sampling process;image restoration;Filling;Digital images;Image generation;Computational efficiency;Image sampling;Robustness;Shape;Humans;Two dimensional displays;Water resources;Algorithms;Computer Graphics;Hypermedia;Image Enhancement;Image Interpretation, Computer-Assisted;Information Storage and Retrieval;Numerical Analysis, Computer-Assisted;Paintings;Pattern Recognition, Automated;Reproducibility of Results;Sensitivity and Specificity;Signal Processing, Computer-Assisted;Subtraction Technique},
 doi={10.1109/TIP.2004.833105},
 ISSN={},
-month={Sep.},}
+month={Sep.}
+}
+```
